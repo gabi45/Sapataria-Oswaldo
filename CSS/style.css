@@ -1,0 +1,33 @@
+.page-title {
+    <!--SHORTHANDMARGENS*/--!>
+
+   margin: 40 px auto 5px;
+   padding left: 50px;
+   width:80%;
+   font-size: 24 pt;
+   color: #8E3200;
+
+
+}
+
+h2 {
+    margin: 5px auto 25px;
+   padding left: 50px;
+   width:80%;
+   font-size: 24 pt;
+   font-weight: bold;
+   color: #8E3200;
+}
+main{
+    main margin: 40px auto 5 px; 
+    padding-left: 10px
+}
+.article-title {
+    margin: 100 px auto 60px;
+    padding left: 50px;
+    width:80%;
+    font-size: 24 pt;
+    color: #8E3200;
+ 
+
+}
