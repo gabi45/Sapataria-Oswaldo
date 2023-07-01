@@ -1,3 +1,4 @@
-# Sapataria-Oswaldo
-## Estudos com HTML e CSS 
-Atividade Sapataria do Curso Senai Ford-Enter - Turma 4 -  Sábado 
+# Sapataria do Sr.Oswaldo
+## Estudos com HTML e CSS
+
+Atividade sapataria do curso SENAI Ford Enter - Turma 4 - Sábado
